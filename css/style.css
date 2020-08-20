@@ -1,0 +1,17 @@
+body{
+  background: content-box radial-gradient(darksalmon, skyblue);
+
+}
+
+hr{
+
+
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 3px;
+  width: 7%;
+}
+
+h1{color: #776d8a}
+h2{color: #065446}
+h3{color: #56556e}
